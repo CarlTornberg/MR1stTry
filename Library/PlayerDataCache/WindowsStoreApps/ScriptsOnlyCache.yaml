@@ -7,8 +7,6 @@ ScriptsOnlyBuild:
     - Microsoft.MixedReality.OpenXR.MotionControllerFeaturePlugin
     - Microsoft.MixedReality.OpenXR.Remoting.AppRemotingPlugin
     - Microsoft.MixedReality.OpenXR.Remoting.PlayModeRemotingPlugin
-    Microsoft.MixedReality.Toolkit.Editor.Inspectors.dll:
-    - Microsoft.MixedReality.Toolkit.Editor.MixedRealityToolkitConfigurationProfileInspector
     Microsoft.MixedReality.Toolkit.Editor.Utilities.dll:
     - Microsoft.MixedReality.Toolkit.Utilities.Editor.ProjectPreferences
     Microsoft.MixedReality.Toolkit.Providers.OpenXR.dll:
@@ -130,13 +128,13 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 2256}
+      Script: {instanceID: 2284}
     - Class: 114
-      Script: {instanceID: 4372}
+      Script: {instanceID: 4400}
     - Class: 114
-      Script: {instanceID: 4690}
+      Script: {instanceID: 4718}
     - Class: 114
-      Script: {instanceID: 5480}
+      Script: {instanceID: 5508}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
