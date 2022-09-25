@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "b2d9840b7f4d",
+        "mtime": 1664102964410,
+        "size": 11850638,
+        "localPath": "C:\\Users\\Datorn\\GitHub\\MR1stTry\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.5.1.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "321dd3d08b64",
+        "mtime": 1664102957050,
+        "size": 11554543,
+        "localPath": "C:\\Users\\Datorn\\GitHub\\MR1stTry\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "5e90f7dbbcd8",
+        "mtime": 1664102962343,
+        "size": 5302738,
+        "localPath": "C:\\Users\\Datorn\\GitHub\\MR1stTry\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.2.tgz"
+      }
+    }
+  }
+}
